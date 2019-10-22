@@ -9,7 +9,8 @@ subtitle:
 description: Ph.D. Student
 author: Xiangyang He
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: zh-Hans
+#language: zh-Hans
+language: en
 date_format: '%Y-%m-%d'
 
 # URL
@@ -216,8 +217,8 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-    GitHub: https://github.com/Logos23333
-    School: http://www.scut.edu.cn/new
+    GitHub: https://github.com/XiangyangHe
+    School: http://www.zju.edu.cn/
 
 
 # Social Links Icons
