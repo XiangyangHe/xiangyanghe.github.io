@@ -1,11 +1,11 @@
 ---
-title: about
+title: 关于自己
 layout: page
 ---
 
-此博客开通于2018/1/24，写些东西，记录生活，如此而已。
+此博客开通于2019/10/23，记录自己的学习及技术。
 
-我很喜欢Bob Dylan的一首歌，叫《forever young》。
+一首《forever young》。
 
 	May God bless and keep you always
 	May your wishes all come true
@@ -34,26 +34,5 @@ layout: page
 	May you stay forever young
 	Forever young, forever young
 	May you stay forever young.
-
-我很喜欢《Rick And Morty》。
-
-我很喜欢茨威格和毛姆的书。
-
-我很喜欢玩游戏并且经常浸入其中。
-
-我认为人生毫无意义，以此对抗生活。
-
-我爱打篮球，Tim Duncun是我的偶像。
-
-我现在的理想是做出一个游戏AI(NPC)，它会与某些人产生感情并伴其一生。
-
-我认为人类的仪式感毫无用处但我经常会自己制造仪式感。
-
-我认为The One也许是不存在的，我们永远也找不到自己的The One。
-
-我永远喜欢守望先锋，这个世界需要更多英雄。
-
-短发女生是宇宙最可爱的生物。
-
 
 
